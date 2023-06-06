@@ -1,6 +1,6 @@
 # Hangman-Game-Wth-Python
 
-# Apa itu Game Hangman
+# Apa itu Game Hangman?
 Hangman adalah permainan tebak kata sederhana di mana pemain harus menebak sebuah kata dengan menebak huruf-huruf yang membentuk kata tersebut. Pada awal permainan, kata yang harus ditebak disembunyikan dan pemain diberi jumlah kesempatan terbatas untuk menebak huruf-huruf yang benar. Jika pemain menebak huruf yang salah, maka kesempatan mereka berkurang.
 
 Dalam permainan Hangman, ada beberapa komponen penting:
