@@ -28,5 +28,8 @@ Pada kode program tersebut, terdapat beberapa konsep OOP (Object-Oriented Progra
 Penerapan konsep-konsep OOP dalam kode program ini membantu dalam organisasi, pemeliharaan, dan perluasan kode dengan cara yang terstruktur dan modular.
 
 
-
+# Nama Anggota kelompok:
+1. M. Febri Ardiansyah (G1A022049)
+2. Muhammad Kevin Rinaldi (G1A022059)
+3. Revan Averuz Mufid (G1A022065)
 
